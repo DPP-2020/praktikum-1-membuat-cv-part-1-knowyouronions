@@ -11,6 +11,9 @@ html, body{
     margin-top: 200px;
     margin-bottom: 10px;
 }
+b.uppercase {
+    text-transform: uppercase;
+  }
 .left{
       width: 100%;
       max-width: 700px;
