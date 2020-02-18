@@ -1,12 +1,18 @@
 
+html, body{
+      height: 100%;
+  }
+
+.contain{
+    display: flex;
+    height: 100%;
+}
   .left{
       width: 100%;
       max-width: 700px;
       height: 100%;
       background-color: blueviolet;
-  }
-
-  
+  } 
   .right{
     width: 100%;
     max-width: 700px;
